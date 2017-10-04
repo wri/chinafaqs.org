@@ -1,0 +1,190 @@
+#wrinav {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 1001;
+  height: 25px;
+  overflow: none;
+  background: #eee url(images/wrinav-bg.png) repeat-x 0 bottom;
+  text-align: left;
+}
+
+#wrinav, #wrinav * {
+  font-family: Arial,Helvetica,sans-serif !important;
+  font-size: 11px !important;
+  line-height: 100% !important;
+}
+
+#wrinav div.wrapper {
+  /* if your site is fixed width, set margin: "0 auto" and width to your width */
+  width: auto;
+  min-width: 700px;
+  margin: 0 10px;
+
+}
+
+#wrinav a.wrilogo {
+  display: block;
+  float: left;
+  width: 235px;
+  height: 19px;
+  margin-top: 6px;
+  background: url(images/wrinav-logo.png) no-repeat 0 0;
+}
+
+#wrinav, #wrinav input, #wrinav a {
+  color: #484848;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+#wrinav a:hover {
+  text-decoration: underline;
+}
+
+#wrinav li {
+  background: none;
+  list-style: none;
+}
+
+#wrinav ul.topnav, #wrinav form {
+  float: left;
+  margin-top: 3px;
+}
+
+#wrinav ul.topnav {
+  margin: 6px 8px 0 0;
+  padding: 0;
+  position: relative;
+}
+
+#wrinav li.top-item {
+  line-height: 12px;
+  padding: 0 6px 6px;
+  background: url(images/wrinav-bar.png) no-repeat 100% 1px;
+  margin: 0;
+  float: left;
+  cursor: pointer;
+  position: relative;
+}
+
+#wrinav li.top-item.last {
+  border-right: none;
+}
+
+#wrinav li.top-item.dropdown {
+  background: url(images/wrinav-arrow.png) no-repeat 100% 4px;
+  padding-right: 10px;
+}
+
+#wrinav div.wrilink {
+  float: left;
+  margin-top: 6px;
+}
+
+#wrinav div.nav {
+  float: right;
+}
+
+#wrinav li.dropdown div.dropdown-item {
+  position: absolute;
+  top: 16px;
+  right: -115px;
+  background: #eee;
+  border: 1px solid #999;
+  width: 185px;
+  z-index: 10000;
+}
+
+#wrinav div.dropdown-item ul {
+  margin: 0;
+  padding: 0 0.5em;
+  border-bottom: 1px solid #999;
+}
+
+#wrinav div.dropdown-item ul.last {
+  border-bottom: none;
+}
+
+#wrinav div.dropdown-item li {
+  padding: 0;
+  margin: 0.5em;
+  display: block;
+  float: none;
+  line-height: 12px;
+}
+
+#wrinav li.dropdown div.dropdown-item {
+  display: none;
+}
+
+#wrinav li.dropdown:hover div.dropdown-item {
+  display: block;
+}
+
+#wrinav input {
+  vertical-align: top;
+  margin: 0;
+}
+
+#wrinav input.form-text {
+  width: 80px !important;
+  border: 1px solid #999 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  background: #fff !important;
+  height: 15px;
+}
+
+#wrinav input.form-btn {
+  background: url(images/wrinav-go-btn.png) no-repeat !important;
+  text-indent: -9999px;
+  border: none;
+  cursor: pointer;
+  width: 22px;
+  height: 17px;
+}
+
+/* localization */
+#wrinav.wrinav-cn input.form-btn {
+  background-image: url(images/wrinav-go-btn.cn.png) !important;
+}
+
+/* IE hacks start with *:first-child+html */
+*:first-child+html #wrinav input.form-text {
+  padding-top: 3px !important;
+  height: 13px;
+}
+
+*:first-child+html #wrinav input.form-btn {
+  margin-top: 2px !important;
+}
+
+*:first-child+html #wrinav ul.topnav {
+  margin-top: 7px;
+}
+
+*:first-child+html #wrinav div.wrilink {
+  margin-top: 7px;
+}
+
+/* move the body section down to make room for our navbar */
+body.wri-nav {
+  margin-top: 25px !important;
+}
+
+/* classes for compatibility with admin-menu */
+body.wri-nav.admin-menu {
+  margin-top: 45px !important;
+}
+
+body.admin-menu #wrinav {
+  top: 20px;
+}
+
+/* place admin-menu on top of wri-nav */
+body.wri-nav #admin-menu {
+  z-index: 1002;
+}
+
