@@ -1,0 +1,2622 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>Industry | ChinaFAQs</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({ publisher: '69f437e4-ae7d-40f5-bb2a-56efb8b33805', publisherGA: 'UA-1981881-5', onhover: false });</script>
+<link rel="alternate" type="application/rss+xml" title="Expert Blog" href="http://www.chinafaqs.org/blog-posts/feed/82?quicktabs_2=0" />
+  <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/cck/theme/content-module.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date_popup/themes/datepicker.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date_popup/themes/jquery.timeentry.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/filefield/filefield.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/nice_menus/nice_menus.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/nice_menus/nice_menus_default.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/typogrify/typogrify.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/wri/wrinav/wrinav.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../misc/farbtastic/farbtastic.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/calendar/calendar.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/views/css/views.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/quicktabs/css/quicktabs.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/quicktabs/tabstyles/zen/zen.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/default/themes/drupalmagazine/style.css?y" />
+  <script type="text/javascript" src="../misc/jquery.js?y"></script>
+<script type="text/javascript" src="../misc/drupal.js?y"></script>
+<script type="text/javascript" src="../misc/progress.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/google_analytics/googleanalytics.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/nice_menus/superfish/js/superfish.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/nice_menus/superfish/js/jquery.bgiframe.min.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/nice_menus/superfish/js/jquery.hoverIntent.minified.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/nice_menus/nice_menus.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/wri/wrinav/wrinav-drupal.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/quicktabs/js/quicktabs.js?y"></script>
+<script type="text/javascript" src="../sites/default/themes/drupalmagazine/js/main.js?y"></script>
+<script type="text/javascript" src="../sites/default/themes/drupalmagazine/js/DD_belatedPNG.js?y"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "nice_menus_options": { "delay": 800, "speed": 1 }, "quicktabs": { "qt_2": { "tabs": [ 0 ] }, "qt_1": { "tabs": [ 0, 0 ] } }, "viewsSlideshowSingleFrame": { "#views_slideshow_singleframe_main_front_page_slideshow-block_1": { "num_divs": 5, "id_prefix": "#views_slideshow_singleframe_main_", "div_prefix": "#views_slideshow_singleframe_div_", "vss_id": "front_page_slideshow-block_1", "timeout": 10000, "sort": 1, "effect": "fade", "speed": 700, "start_paused": 0, "delay": 0, "fixed_height": 1, "random": 0, "pause": 1, "pause_on_click": 0, "pause_when_hidden": 0, "pause_when_hidden_type": "full", "amount_allowed_visible": "", "remember_slide": 0, "remember_slide_days": 1, "controls": 0, "items_per_slide": 1, "pager": 2, "pager_type": "Numbered", "pager_hover": 1, "pager_click_to_page": 0, "image_count": 0, "nowrap": 0, "sync": 1, "advanced": "height:290", "ie": { "cleartype": "true", "cleartypenobg": "false" } } } });
+//--><!]]>
+</script>
+  <script type="text/javascript" src="../sites/default/themes/drupalmagazine/js/tabber.js"></script>
+  <link type="text/css" rel="stylesheet" media="all" href="../sites/default/themes/drupalmagazine/tab.css" />
+<!--[if lte IE 6]>
+	<link rel="stylesheet" href="/sites/default/themes/drupalmagazine/ie6-fixes.css" type="text/css">
+<![endif]-->
+
+<!-- If Superfish Enabled -->  
+    	
+      
+    
+    <script type="text/javascript">
+      function equalHeight(group) {
+	  tallest = 0;
+	  group.each(function() {
+		thisHeight = $(this).height();
+		if(thisHeight > tallest) {
+			tallest = thisHeight;
+		}
+	  });
+	  group.height(tallest);
+      }
+
+     $(document).ready(function() {
+	  equalHeight($(".feature"));
+     });
+   </script>
+
+ 
+<!--[if lte IE 6]>
+	<script type="text/javascript">
+      DD_belatedPNG.fix('#site-logo img, #shadow-left, #shadow-right, .left-sideblock .collapsiblock .h2-icon, .left-sideblock .collapsiblockCollapsed .h2-icon, .right-sideblock .collapsiblock .h2-icon, .right-sideblock .collapsiblockCollapsed .h2-icon, #search .form-text, #search .form-submit, .feed-icon img, li.comment_comments a, li.comment_add a, li.node_read_more a, #primary-links li ul li.expanded, .alert, .info, .notice, .download, .check, blockquote, blockquote p ');
+	</script>
+<![endif]-->
+
+</head>
+
+<body class="sidebar-right">
+<div align="center"> 
+	<div id="container"> 
+		<div id="header" class="clear-block"> 
+				  <div id="slogan">Convened by the World Resources Institute</div>
+				<a href="../register" class="newsletter">Newsletter</a>
+		<a href="http://twitter.com/chinafaqs" class="twitter">Twitter</a>
+		<a href="../rss.xml" class="rss">RSS Feed</a>
+					<div id="logo">
+				<a href="../index.html"><img src="../files/chinainfo/drupalmagazine_logo.gif" alt="ChinaFAQs"/></a>
+			</div>
+							
+<div class="primary-menu clear-block"><ul class="nice-menu nice-menu-down" id="nice-menu-primary-links"><li class="menu-361 menu-path-front first  odd "><a href="../index.html" title=""><span>Home</span></a></li>
+<li class="menu-327 menuparent menu-path-node-3 even "><a href="../about" title=""><span>About</span></a><ul><li class="menu-3062 menu-path-node-3 first  odd "><a href="../about" title=""><span>About ChinaFAQs</span></a></li>
+<li class="menu-375 menu-path-chinafaqs-staff even "><a href="../chinafaqs-staff" title=""><span>ChinaFAQs Staff</span></a></li>
+<li class="menu-1351 menu-path-node-223 odd  last "><a href="../photo-credits" title=""><span>Photo Credits</span></a></li>
+</ul>
+</li>
+<li class="menu-683 menu-path-experts odd "><a href="../experts" title=""><span>Experts</span></a></li>
+<li class="menu-359 menuparent menu-path-issues active-trail even "><a href="../issues" title=""><span>Issue Areas</span></a><ul><li class="menu-3064 menu-path-issues first  odd "><a href="../issues" title=""><span>All Issue Areas</span></a></li>
+<li class="menu-3060 menu-path-chinafaqsorg-china-faqs-themes even "><a href="../china-faqs-themes" title=""><span>ChinaFAQs Themes</span></a></li>
+<li class="menu-3046 menu-path-node-96 odd "><a href="carbon-capture-and-storage" title=""><span>Carbon Capture and Storage</span></a></li>
+<li class="menu-3047 menu-path-node-86 even "><a href="coal-electricity" title=""><span>Coal for Electricity</span></a></li>
+<li class="menu-3053 menu-path-chinafaqsorg-issue-energy-efficiency odd "><a href="energy-efficiency" title=""><span>Energy Efficiency</span></a></li>
+<li class="menu-3052 menu-path-chinafaqsorg-issue-energy-and-emissions-data even "><a href="energy-and-emissions-data" title=""><span>Energy and Emissions Data</span></a></li>
+<li class="menu-3057 menu-path-chinafaqsorg-issue-policy-and-governance odd "><a href="policy-and-governance" title=""><span>Policy and Governance</span></a></li>
+<li class="menu-3058 menu-path-chinafaqsorg-issue-renewables-and-alternative-energy even "><a href="renewables-and-alternative-energy" title=""><span>Renewable / Alternative Energy</span></a></li>
+<li class="menu-3059 menu-path-chinafaqsorg-issue-trade-and-competitiveness odd "><a href="trade-and-competitiveness" title=""><span>Trade and Competitiveness</span></a></li>
+<li class="menu-3061 menu-path-chinafaqsorg-issue-united-states-china-cooperation even  last "><a href="united-states-china-cooperation" title=""><span>U.S. - China Cooperation</span></a></li>
+</ul>
+</li>
+<li class="menu-521 menuparent menu-path-library odd "><a href="../library" title=""><span>Library &amp; Data</span></a><ul><li class="menu-3065 menu-path-chinafaqsorg-library first  odd "><a href="../library" title=""><span>Full Library</span></a></li>
+<li class="menu-3050 menu-path-chinafaqsorg-libraryissuesAlltype29 even "><a href="../library?issues=All&amp;type=29" title=""><span>Data Sources</span></a></li>
+<li class="menu-3048 menu-path-chinafaqsorg-libraryissuesAlltype28 odd "><a href="../library?issues=All&amp;type=28" title=""><span>Fact Sheets</span></a></li>
+<li class="menu-3049 menu-path-chinafaqsorg-libraryissuesAlltype27 even  last "><a href="../library?issues=All&amp;type=27" title=""><span>Graphics</span></a></li>
+</ul>
+</li>
+<li class="menu-3015 menuparent menu-path-fact-sheets even "><a href="../fact-sheets" title=""><span>Fact Sheets</span></a><ul><li class="menu-3118 menu-path-chinafaqsorg-fact-sheetsissuesAll first  odd "><a href="../fact-sheets?issues=All" title=""><span>All Fact Sheets</span></a></li>
+<li class="menu-3111 menu-path-chinafaqsorg-fact-sheetsissues18 even "><a href="../fact-sheets?issues=18" title=""><span>Carbon Capture and Storage</span></a></li>
+<li class="menu-3112 menu-path-chinafaqsorg-fact-sheetsissues20 odd "><a href="../fact-sheets?issues=20" title=""><span>Coal for Electricity</span></a></li>
+<li class="menu-3113 menu-path-chinafaqsorg-fact-sheetsissues11 even "><a href="../fact-sheets?issues=11" title=""><span>Energy Efficiency</span></a></li>
+<li class="menu-3114 menu-path-chinafaqsorg-fact-sheetsissues33 odd "><a href="../fact-sheets?issues=33" title=""><span>Energy and Emissions Data</span></a></li>
+<li class="menu-3115 menu-path-chinafaqsorg-fact-sheetsissues35 even "><a href="../fact-sheets?issues=35" title=""><span>Policy and Governance</span></a></li>
+<li class="menu-3110 menu-path-chinafaqsorg-fact-sheetsissues19 odd "><a href="../fact-sheets?issues=19" title=""><span>Renewable / Alternative Energy</span></a></li>
+<li class="menu-3116 menu-path-chinafaqsorg-fact-sheetsissues23 even "><a href="../fact-sheets?issues=23" title=""><span>Trade and Competitiveness</span></a></li>
+<li class="menu-3117 menu-path-chinafaqsorg-fact-sheetsissues21 odd  last "><a href="../fact-sheets?issues=21" title=""><span>U.S. - China Cooperation</span></a></li>
+</ul>
+</li>
+<li class="menu-1336 menu-path-blog-posts odd "><a href="../blog-posts" title=""><span>Expert Blog</span></a></li>
+<li class="menu-357 menu-path-contact even  last "><a href="../contact" title=""><span>Contact Us</span></a></li>
+</ul>
+</div>
+		<div id="information">
+		          <form action="industry?quicktabs_2=0"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline">
+  <div class="form-item" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-xlHshrfyWtfmtDYtYuQfIOyqhOBssS66Lh1bpb7fqPg" value="form-xlHshrfyWtfmtDYtYuQfIOyqhOBssS66Lh1bpb7fqPg"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+
+</div></form>
+		 
+		</div>
+		</div>
+                      
+		<div id="content" class="clear-block">
+			  
+                    
+			<div id="left" style="border: solid 1px #d6eff2;">
+			  <div class="breadcrumb"><a href="../index.html">Home</a> » <a href="../issues">Issue Areas</a></div>				  
+				<div id="left-sbm-top">
+					<h1>Industry</h1>  
+															        
+					<div id="node-82" class="node node-issue_area">
+
+
+
+  
+  <div class="content clear-block">
+    <div class="field field-type-filefield field-field-image">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <img  class="imagefield imagefield-field_image" width="200" height="120" alt="" src="../files/chinainfo/chinafaqs-industry.jpg?1252502870" />        </div>
+        </div>
+</div>
+<p>Industry accounts for 70% of energy consumption in China - and the bulk of its greenhouse gas emissions.  How are China&#8217;s industrial polices affecting energy use and emissions?</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>
+<div class="related-posts">
+<div class="gray-bar" style="border: solid 2px #d4d4d4;"></div>
+  
+  <div class="content-related-posts">
+    <div id="quicktabs-1" class="quicktabs_wrapper quicktabs-style-zen"><ul class="quicktabs_tabs quicktabs-style-zen"><li class="qtab-0 active first"><a href="industry?quicktabs_2=0&amp;quicktabs_1=0#quicktabs-1" id="quicktabs-tab-1-0" class="qt_tab active">Library &amp; Data</a></li><li class="qtab-1 last"><a href="industry?quicktabs_2=0&amp;quicktabs_1=1#quicktabs-1" id="quicktabs-tab-1-1" class="qt_tab active">Experts</a></li></ul><div id="quicktabs_container_1" class="quicktabs_main quicktabs-style-zen"><div id="quicktabs_tabpage_1_0" class="quicktabs_tabpage"><div class="related-posts">
+<div class="gray-bar" style="border: solid 2px #d4d4d4;"></div>
+  
+  <div class="content-related-posts">
+    <div class="view view-issue-detail-grouping-list view-id-issue_detail_grouping_list view-display-id-block_2 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/china-and-united-states-leading-climate-action-new-challenges-new-opportunities">China and the United States: Leading on Climate Action--New Challenges, New Opportunities</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/New&#32;Challenges,&#32;New&#32;Opportunities&#32;Fact&#32;Sheet.jpg" alt="" title="" width="93" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/ChinaFAQs-Taking_Stronger_Action&#32;V5.pdf" type="application/pdf; length=641046">ChinaFAQs-Taking_Stronger_Action V5.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><b>Key Questions:</b></p>
+
+<blockquote><blockquote><ul><li><b>Q:</b> How have the joint U.S.-China announcements helped create momentum for global climate action?</li>
+<li><b>Q:</b> What steps is China taking toward its goals?<br /><b>A:</b> China has been taking action to strengthen all the building blocks of its low-carbon strategy, and continues to do so.</li>
+<li><b>Q:</b> Do we have reason to believe that China will follow through on its commitments?<br /><b>A:</b> Yes. China has already made progress on its energy and emissions targets and has strong reasons of national interest to build on its current efforts.</li>
+<li><b>Q:</b> What is the benefit of the U.S. and China, and many other countries, taking action together?</li>
+<li><b>Q:</b> With countries acting together, each can have confidence its actions are part of a global effort to address climate change. Moving forward together yields increasing opportunities for all.</li></ul></blockquote></blockquote>
+
+<blockquote><a href="../files/chinainfo/ChinaFAQs-Taking_Stronger_Action&#32;V5.pdf">Read more&#8230;</a></blockquote></div>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/carbon-capture-and-storage-prospects-after-paris">Carbon Capture and Storage: Prospects after Paris</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Chinese&#32;coal&#32;plant.jpg" alt="" title="" width="160" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><i>This post <a href="http://www.wri.org/blog/2016/04/carbon-capture-and-storage-prospects-after-paris">originally appeared</a> on WRI&#8217;s Insights blog:</i></p>
+
+<p>Momentum for climate action <a href="http://www.wri.org/blog/2016/04/commitment-action-signs-progress-paris-climate-talks">has surged</a> since the Paris Agreement in December, with increased investment in clean, renewable energy and new energy technologies. But will the Agreement give a needed boost to carbon capture and storage? Known as CCS, this suite of technologies aims to keep climate-warming carbon dioxide out of the atmosphere, acting as a bridge to a lower-carbon future.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/china-signs-paris-agreement-will-encourage-others-join">China Signs Paris Agreement, Will Encourage Others to Join</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/UN&#32;Building.jpg" alt="" title="" width="80" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><i>This post <a href="http://www.wri.org/events/2016/04/live-blog-signing-ceremony-paris-climate-change-agreement">originally appeared</a> on the World Resources Institute&#8217;s live blog covering the Signing Ceremony of the Paris Climate Change Agreement. To follow the signing ceremony via WRI&#8217;s live blog, <a href="http://www.wri.org/events/2016/04/live-blog-signing-ceremony-paris-climate-change-agreement">click here</a>.</i></p>
+
+<p>The signing of the landmark international climate change agreement reached in Paris in December is taking place today at the United Nations in New York. China is represented by Zhang Gaoli, Vice Premier of China, and Special Envoy of Chinese President Xi Jinping. Zhang said that after China signs the Paris Agreement today, it will work hard to earnestly implement it. Zhang said China will finalize its internal process to join the agreement before it hosts the G20 Summit in Hangzhou in September 2016, and will encourage other G20 members to quickly join the agreement as well.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/how-chinas-13th-five-year-plan-addresses-energy-and-environment">How China&#039;s 13th Five-Year Plan Addresses Energy and the Environment</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Beijing&#32;skyline&#32;blue.jpg" alt="" title="" width="197" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><i>This post <a href="http://www.chinafile.com/reporting-opinion/environment/how-chinas-13th-five-year-plan-addresses-energy-and-environment">originally appeared</a> on ChinaFile.</i></p>
+
+<p>For the first time ever, a senior Chinese leader announced in his <a href="http://www.nytimes.com/interactive/2016/03/05/world/asia/china-li-keqiang-work-report-full-text.html?_r=0">work report</a> to the National People’s Congress—his most important formal speech of the year—that environmental violators and those who fail to report such violations will be “severely punished.” Premier Li Keqiang reported that China had succeeded in meeting or exceeding the previous Five-Year Plan’s environmental goals. The draft 13th Five-Year Plan, released March 5 and scheduled to be passed (likely without amendment) in the coming days, builds on that success, requiring greater reductions in the emissions of many pollutants.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/press-call-analyzing-chinas-13th-five-year-plan">Press Call Analyzing China&#039;s 13th Five Year Plan</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/16526151761_61b24efa46_n_0.jpg" alt="" title="" width="194" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>China recently released its 13th Five Year Plan, which will guide China&#8217;s economic, social, and environmental policy through 2020. The plan makes clear that China is integrating climate action into its strategy for economic development. It sets China on course to meet or exceed its international climate commitments, and lays out a strategy for a rebalancing of the economy toward cleaner drivers of growth.</p>
+
+<p>To analyze the key elements of the Five Year Plan in the context of the progress China has achieved and the country&#8217;s remaining challenges, ChinaFAQs organized a press conference call on March 18th.</p>
+
+<p>For the audio of the press call, <a href="https://soundcloud.com/geoffrey-henderson/chinafaqs-press-call-13th-five-year-plan">click here</a>.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/china�%2580%2599s-thirteenth-five-year-plan-paves-way-co2-emissions-peak">China’s Thirteenth Five-Year Plan Paves the Way for a CO2 Emissions Peak</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Xinjiang&#32;Windmills.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Based on recent economic developments and the newly-released Thirteenth Five-Year Plan, China is well on its way to reaching its climate goal of peak CO2 emissions by 2030.</p>
+
+<p>The Plan charts the overarching course of China’s economic and social development through 2020, and will be translated into plans for provinces and specific sectors like energy in the coming months and years. The national plan, by reflecting the government’s high-level priorities, provides important momentum toward meeting China’s climate change commitments.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/china�%2580%2599s-low-carbon-strategy-could-carbon-tax-play-role">China’s Low-Carbon Strategy: Could a Carbon Tax Play a Role?</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Beijing&#32;Highway&#32;Night.jpg" alt="" title="" width="160" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>As reflected in the emphasis on “green development” of the recently-released 13th Five Year Plan, China’s leaders recognize the need to shift to a more sustainable, climate-friendly model of development. They have signaled that they believe market pricing is a key element of the new model, and that carbon pricing is an important policy instrument for achieving this shift. While China’s carbon trading pilots and planned national trading system have received much attention, a carbon tax is also being seriously discussed. Government think tanks have proposed various options for the sectors to be covered, tax administration, and use of the revenue to complement existing policies.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/5-questions-what-does-china�%2580%2599s-new-five-year-plan-mean-climate-action">5 Questions: What Does China’s New Five-Year Plan Mean for Climate Action?</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/China&#32;solar&#32;panels.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><i>This post <a href="http://www.wri.org/blog/2016/03/5-questions-what-does-chinas-new-five-year-plan-mean-climate-action">originally appeared</a> on WRI&#8217;s Insights blog:</i></p>
+
+<p>China has officially unveiled its <a href="http://news.xinhuanet.com/politics/2016lh/2016-03/17/c_1118366322.htm">13th Five-Year Plan</a>, which will guide the country&rsquo;s economic and social development from 2016 through 2020. This latest edition builds on <a href="http://www.wri.org/blog/2016/03/chinas-climate-action-looking-back-and-looking-ahead-13th-five-year-plan">progress made</a> over the last five years, and makes clear that environmental stewardship is an increasingly integral component of China&rsquo;s development.</p>
+
+<p>The plan lays out targets and measures to address several sustainability challenges&mdash;including climate change, air pollution, water, urbanization, transportation and more. The new plan&rsquo;s high-level targets and policies will continue to strengthen China&rsquo;s efforts to shift to a more sustainable model of growth and deliver on its climate commitments. Here&rsquo;s a look at the highlights and importance of the plan for China&rsquo;s action on energy and climate change.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/press-call-chinas-climate-action-and-13th-five-year-plan">Press Call on China&#039;s Climate Action and the 13th Five Year Plan</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Li&#32;Keqiang_0.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>China&#8217;s 13th Five Year Plan, to be released in the coming days, will provide a blueprint for the country’s economic, social, and environmental development through 2020. More specific plans for energy and other sectors are expected following the main plan’s release. The plan comes in the context of China’s increasing climate action in recent years, with three key trends emerging: China is making progress in rebalancing its economy away from heavy industry toward services, limiting coal use, and expanding its use of non-fossil energy.</p>
+
+<p>To discuss these trends and provide an overview of the Five Year Plan process, ChinaFAQs hosted a press teleconference on March 4th.</p>
+
+<p>For the audio of the press call, <a href="http://www.wri.org/news/2016/03/advisory-press-teleconference-china-13th-five-year-plan">click here</a>.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/paris-china-announces-promising-elements-national-emissions-trading-system">In Paris, China Announces Promising Elements of National Emissions Trading System</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Tianjin.JPG" alt="" title="" width="160" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><h3><i>From the Paris Climate Negotiations</i></h3>
+
+<p>Negotiators from around the world have gathered in Paris to finalize a global climate agreement, which will be supported by the commitments of <a href="http://www.carbonbrief.org/paris-2015-tracking-country-climate-pledges">over 180 countries</a> to domestic climate action included in their <a href="http://www.wri.org/indc-definition">Intended Nationally Determined Contributions (INDCs)</a>. In September, China’s President Xi Jinping <a href="https://www.whitehouse.gov/the-press-office/2015/09/25/us-china-joint-presidential-statement-climate-change">announced</a> that China will launch a national emissions trading scheme (ETS) in 2017 as one of the key policy instruments that China will use to achieve <a href="http://www4.unfccc.int/submissions/INDC/Published%20Documents/China/1/China&#039;s%20INDC%20-%20on%2030%20June%202015.pdf">its own commitment</a> to peak carbon emissions around 2030 or earlier. While questions remain about how China will implement a complex market-based mechanism, recent announcements by Chinese officials shed light on promising plans for the policy’s design and implementation.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/climate-change-paris-air-pocalypse-beijing-what�%2580%2599s-connection">Climate Change in Paris; Air-Pocalypse in Beijing. What’s the connection?</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Debbi&#32;blog&#32;pic.jpg" alt="" title="" width="90" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><h3><i>From the Paris Climate Negotiations</i></h3>
+
+<p>By now everyone who follows environmental news or looks at the front page of major newspapers knows that in the last two weeks Beijing has suffered through not one but two of these major multi-day air pollution events that have come to be known as air-pocalypses. Having such a spate of bad air in its capital city just as China was advocating for its green agenda in Paris was undoubtedly somewhat embarrassing to Chinese negotiators, but what does it mean beyond that? We’ve seen commentary suggesting everything from “how can we believe Chinese commitments,” to “this will increase Chinese efforts and make the issue more visible to Chinese.” But what really do conventional air pollution and greenhouse gave emissions have to do with one another? Let’s dig in a bit.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/us-china-climate-change-announcement-signals-new-phase-global-action">US-China Climate Change Announcement Signals New Phase for Global Action</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/SED&#32;table&#32;2015.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><i>This post <a href="http://www.wri.org/blog/2015/09/us-china-climate-change-announcement-signals-new-phase-global-action">originally appeared</a> on WRI&#8217;s Insights blog:</i></p>
+
+<p>Nearly a year ago, the United States and China <a href="http://www.wri.org/blog/2014/11/numbers-china-us-climate-agreement">laid out</a> their <a href="http://www.wri.org/indc-definition">national climate action plans</a> for the coming years. These were the first in what is now a substantial list of national climate action plans—plans that will form the basis of <a href="http://www.wri.org/blog/2015/05/qa-jennifer-morgan-everything-you-need-know-about-new-climate-agreement">a new international climate agreement</a>  to be finalized in Paris later this year. Now, the world’s two biggest emitters have <a href="http://www.wri.org/news/2015/09/statement-joint-us-china-agreement-shows-%E2%80%9Ccourageous-leadership-climate%E2%80%9D">taken the next step</a> by cementing their plans, <a href="https://www.whitehouse.gov/the-press-office/2015/09/25/us-china-joint-presidential-statement-climate-change">jointly announcing</a> key actions they’ll take to achieve their national goals, and clarifying their views on the upcoming Paris agreement.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/path-paris-obama-and-xi-invite-stronger-global-climate-ambition">On the Path to Paris, Obama and Xi Invite Stronger Global Climate Ambition</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Obama&#32;Xi&#32;table.jpg" alt="" title="" width="200" height="119" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>The latest <a href="https://www.whitehouse.gov/the-press-office/2015/09/25/us-china-joint-presidential-statement-climate-change">Obama-Xi announcement</a> sends a strong message: the two nations are acting fast to enable a global low carbon transition. Friday’s joint announcement is an unprecedented step by the world’s #1 and #2 emitters to commit, at the highest levels, to a strong set of domestic policies and to reinforce global mechanisms that will help to engage peers ahead of the upcoming landmark climate change negotiations in Paris.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/us-china-cooperation-good-news-climate">US-China Cooperation is Good News for the Climate</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Obama&#32;Xi&#32;Handshake.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>The <a href="https://www.whitehouse.gov/the-press-office/2015/09/25/us-china-joint-presidential-statement-climate-change">US-China Joint Announcement on Climate Change</a> is a landmark for the bilateral relationship in terms of its specificity and ambition. This is especially true given that many Chinese wonder at the direction of US policy given that none of the Republican candidates in next year’s election support strong climate policy.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/chinese-and-us-cities-states-and-provinces-announce-climate-targets-and-extensive-coopera">Chinese and U.S. Cities, States and Provinces Announce Climate Targets and Extensive Cooperation</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Mayors&#32;Climate.jpg" alt="" title="" width="200" height="106" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>At this week’s U.S.-China Climate Leaders Summit in Los Angeles, eleven cities and provinces from across China committed to reach a peak in their carbon dioxide emissions before the national goal to peak around 2030.  The cities and provinces—along with eighteen U.S. counterparts, which announced emissions reduction targets—also pledged to track and report their emissions, establish climate action plans, and enhance U.S.-China cooperation at the subnational level.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/steel-production-air-pollution-and-electricity-prices">Steel production, air pollution, and electricity prices</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/smokestacks.png" alt="" title="" width="200" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>China’s top steel-producing city—Tangshan, Hebei province—is undergoing campaigns to reduce smog through stringent pollution standards and to tackle overcapacity, which entail reduced production, plant shutdowns, and plant renovation. The smog campaigns are part of a <a href="../files/chinainfo/ChinaFAQs-Taking_Stronger_Action&#32;V3_0.pdf">larger program</a> to address air pollution and limit coal consumption, while the effort to reduce overcapacity comes as China is working to restructure its economy by reducing the share of energy-intensive industry and increasing the share of services.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/china-raising-its-climate-ambition-experts-say">China Is Raising Its Climate Ambition, Experts Say</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/16526151761_61b24efa46_n.jpg" alt="" title="" width="194" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><i>This post <a href="http://www.wri.org/blog/2015/08/china-raising-its-climate-ambition-experts-say">originally appeared</a> on WRI&#8217;s Insights blog:</i></p>
+
+<p>China is increasing its ambition in addressing climate change, and it has a strong national interest in sustaining its actions. That’s according to a recent <a href="http://www.eesi.org/briefings/view/071415china">panel of experts</a> convened by WRI’s ChinaFAQs project and the Environmental and Energy Study Institute.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/stronger-commitments-china-and-us-are-breakthrough-international-climate-action">Stronger Commitments from China and US Are Breakthrough for International Climate Action</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/3312369630_7977449515_m.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>With the current climate negotiations <a href="http://www.wri.org/blog/2015/05/qa-jennifer-morgan-everything-you-need-know-about-new-climate-agreement">reaching a conclusion in Paris</a> this coming December, we are at a pivotal moment in the global effort to address climate change and shift to a low-carbon development path. The United States and China, which together <a href="http://cait.wri.org/historical/Country%20GHG%20Emissions?indicator%5b%5d=Total%20GHG%20Emissions%20Excluding%20Land-Use%20Change%20and%20Forestry&amp;indicator%5b%5d=Total%20GHG%20Emissions%20Including%20Land-Use%20Change%20and%20Forestry&amp;year%5b%5d=2012&amp;chartType=geo">make up 38 percent</a> of total greenhouse gas emissions (as of 2012), are playing an important role.</p>
+
+<p>Yet there has been confusion about China’s climate action commitments, as well as the fact that both China and the U.S. are taking significant action. Here’s a look at China’s progress to date, and what implications it has for international climate action.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-19 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/china-announces-next-steps-shift-low-carbon-path">China Announces Next Steps in Shift to Low-Carbon Path</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/File_China_America_flag_0.jpg" alt="" title="" width="171" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>As China unveiled its contribution (&#8220;INDC&#8221;) to the international climate negotiations, affirming the pledges it made in its joint announcement with the U.S. in November, a spokesman for Christian Aid, Mohamed Adow, said, “The pledge marks a significant shift away from a fossil fuel-intensive development path to one focused on renewables on a scale the world has never yet seen.” Jennifer Morgan of the World Resources Institute called it “a serious and credible” effort, and said “China’s commitment was made possible by its ambitious clean energy policies and investments enacted over the past decade.”</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-20 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/strategic-and-economic-dialogue-announces-climate-progress-chinafaqs-and-eesi-hold-briefi">Strategic and Economic Dialogue announces climate progress, ChinaFAQs and EESI hold briefing</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/US&#32;China&#32;Cooperation&#32;2015.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>For the full briefing notice including speakers, topics, and the video recording, <a href="http://www.eesi.org/briefings/view/071415china">click here</a></p>
+
+<p>At this week’s U.S.-China Strategic and Economic Dialogue in Washington, D.C., the two countries built on their robust cooperation on climate change and clean energy. The U.S. and China pledged to work together to address obstacles to an “ambitious global climate agreement” at this December’s Conference of the Parties in Paris. They also agreed to continue to discuss each country’s post-2020 plans, and announced a new dialogue on domestic policy. The countries highlighted their progress on the initiatives they jointly announced in November, such as phasing down hydrofluorocarbons (HFCs) and expanding the Clean Energy Research Center (CERC).</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-21 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/momentum-paris-agreement-builds-us-china-climate-change-pledges">Momentum For Paris Agreement Builds from U.S.-China Climate Change Pledges</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/287px-Globe_Eurasia.jpg" alt="" title="" width="112" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>With the U.S. release of its proposal for the international climate negotiations and proposals expected soon from other countries, the negotiations are intensifying. A key factor in this dynamic is China’s November commitment to peak its emissions and scale up non-fossil energy, which has shifted the global debate on climate action. China is already taking action on multiple fronts to meet its new goals.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-22 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/making-plans-steps-development-chinas-crucial-13th-five-year-plan">Making Plans: Steps in Development of China&#039;s Crucial 13th Five Year Plan</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Li&#32;Keqiang.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>ChinaFAQs expert <a href="../expert/angel-hsu">Angel Hsu</a> and her team at Yale&#8217;s Environmental Performance Measurement program have developed an interactive timeline that lays out the steps China is expected to take in developing, enacting and implementing its next Five Year Plan, which will orient the country&#8217;s economic and social policy. The 13th Five Year Plan will be announced in early 2016 and will be in place until the 14th Five Year Plan in 2021. The timeline provides details on dates, procedure, and stakeholder involvement for each stage of the process. Past plans have set targets relating to energy and carbon intensity, coal and energy consumption, energy efficiency, and clean energy development. The upcoming 13th Five Year Plan is likely to include additional measures to bend the curve of China&#8217;s greenhouse gas emissions downward, and will provide insight into how China will strive to meet its <a href="http://www.whitehouse.gov/the-press-office/2014/11/11/fact-sheet-us-china-joint-announcement-climate-change-and-clean-energy-c">new climate targets for 2030</a>.</p>
+
+<p>To access the timeline, <a href="http://epi.yale.edu/visuals/china-five-year-plan/">click here</a></p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-23 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/us-china-strategic-and-economic-dialogue-announcements-climate-change-and-low-carbon-tech">U.S.-China Strategic and Economic Dialogue Announcements on Climate Change and Low-Carbon Technology</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/china3_600_1&#32;(1).jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Cooperation on climate change and air pollution were important themes of this week’s U.S.-China Strategic and Economic Dialogue held in Beijing, an annual meeting among high-level diplomats from both nations. The U.S. and Chinese representatives discussed their respective efforts to develop targets for reducing greenhouse gas emissions and announced a series of agreements under the U.S.-China Climate Change Working Group.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-24 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/chinafaqs-what-are-chinas-national-climate-and-energy-targets">ChinaFAQs:  What Are China&#039;s National Climate and Energy Targets?</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/ChinaFAQs_table_China_climate_energy_targets-1.jpg" alt="" title="" width="155" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/ChinaFAQs_table_China_climate_energy_targets_0.pdf" type="application/pdf; length=194275">ChinaFAQs_table_China_climate_energy_targets.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><b>Key Points:</b></p>
+
+<ul><blockquote><blockquote><blockquote><li>China has a long term target to reduce the carbon intensity of the economy by 40-45% from 2005 levels by 2020</li>
+<li>China also has binding targets to reduce energy intensity by 16% from 2010 levels by 2015 and carbon intensity by 17% from 2010 levels by 2015</li>
+<li>China has a target to reduce coal consumption as a percentage of primary energy to below 65% by 2017</li>
+<li>China has ambitious targets for renewable energy in 2015, 2017, and 2020</li></blockquote></blockquote></blockquote></ul></div>
+  </div>
+  </div>
+  <div class="views-row views-row-25 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/chinafaqs-�%2580%2594-short-take">ChinaFAQs — Short Take</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/ChinaFAQs_short_take-1.jpg" alt="" title="" width="93" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/ChinaFAQs_short_take.pdf" type="application/pdf; length=389341">ChinaFAQs_short_take.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Summary of key information on China&#8217;s actions on climate and clean energy and the implications for the United States.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-26 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/prologue-2013-us-china-strategic-economic-dialogue-�%2580%2593-chinafaqs-press-call">Prologue to the 2013 U.S.-China Strategic &amp; Economic Dialogue – ChinaFAQs Press Call</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/china2_600_1.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>ChinaFAQs climate and energy experts and top media representatives took part in a ChinaFAQs press call on July 8th to preview the July 10th and 11th U.S.-China Strategic and Economic Dialogue (S&amp;ED), which for the first time will include a designated <a href="http://www.state.gov/r/pa/prs/ps/2013/04/207465.htm">Climate Change Working Group</a>.  ChinaFAQs network experts discussed recent events and potential areas of U.S.-China cooperation, including air pollution, shale gas, carbon capture and storage (CCS) and more. The experts also offered insights into what the S&amp;ED will mean for U.S.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-27 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/what-future-king-coal-china">What is the future of King Coal in China?</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/coalplant.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>When it comes to coal consumption, no other nation comes close to China. The country reigns as the world’s largest coal user, burning almost half of the global total each year. About 70 percent of China’s total energy consumption and nearly 80 percent of its electricity production come from coal, and its recent shift from being a historical net coal exporter to the world’s largest net coal importer took only three years.</p>
+
+<p>China’s great thirst for coal is undeniably troubling from a sustainable development standpoint. However, the situation may be changing&#8230;</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-28 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/briefing-why-china-acting-clean-energy-successes-challenges-and-implications-us-policies">Briefing- Why China Is Acting on Clean Energy: Successes, Challenges, and Implications for U.S. Policies</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/chinafaqs-renewables_1.jpg" alt="" title="" width="200" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>On October 12, ChinaFAQs and the <b><a href="http://www.eesi.org/101212_China">Environmental and Energy Study Institute (EESI)</a></b> held a briefing on Capitol Hill about the issues driving China’s renewable energy, energy efficiency, and climate policies. While China and the United States differ in important respects, they have some similar challenges and opportunities relating to energy. Both face economic, employment, energy security, and environmental challenges. The United States and China both cooperate and compete with each other on clean energy initiatives and technology.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-29 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/us-china-trade-friction-policy-implications">US-China Trade Friction: Policy Implications</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/Munro101212.pdf" type="application/pdf; length=717626">Munro101212.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Presentation by Stephen Munro, Policy and International Analyst, <a href="http://www.bnef.com/">Bloomberg New Energy Finance</a>, given at a Congressional briefing “Why China Is Acting on Clean Energy: Successes, Challenges, and Implications for U.S. Policies”, Washington, D.C., October 12, 2012.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-30 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/why-china-acting-clean-energy-successes-challenges-and-implications-us-policies">Why China Is Acting on Clean Energy: Successes, Challenges, and Implications for U.S. Policies</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Joanna_Lewis_0.jpg" alt="" title="" width="100" height="100" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/Lewis101212.pdf" type="application/pdf; length=2669446">Lewis101212.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Presentation by <strong>Joanna Lewis</strong>, Assistant Professor of Science, Technology, and International Affairs, <a href="http://sfs.georgetown.edu/">Edmund A. Walsh School of Foreign Service, Georgetown University</a>, given at a Congressional briefing &#8220;Why China Is Acting on Clean Energy: Successes, Challenges, and Implications for U.S. Policies&#8221;, Washington, D.C., October 12, 2012.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-31 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/diffusion-clean-energy-innovations-case-studies-china-solar-coal-gasification-gas-turbine">Diffusion of Clean Energy Innovations: Case Studies from China in Solar, Coal Gasification, Gas Turbines, and Batteries</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Gallagher_10-3-12.jpg" alt="" title="" width="133" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>ChinaFAQs Expert and Tufts University Professor <A href="../expert/kelly-sims-gallagher">Kelly Sims Gallagher</a> recently gave a presentation on the global diffusion of cleaner energy technologies at the University of Texas at Austin&#8217;s Energy Institute. Her presentation offers a preview of her new book on the topic, forthcoming from The MIT Press in 2013. The book identifies the conditions necessary for motivating the international diffusion of cleaner energy technologies, and empirically investigates the extent to which certain barriers and incentives to their movement across international borders are valid in the Chinese context.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-32 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/us-commerce-department-announces-tariffs-chinese-solar-cells">U.S. Commerce Department Announces Tariffs on Chinese Solar Cells</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/SolarPanel_IntelFreePress.jpg" alt="" title="" width="191" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>The U.S. Department of Commerce on Thursday announced its preliminary decision that it will impose anti-dumping tariffs of over 31 percent on solar cells imported from China.</p>
+
+<p>Commerce is currently scheduled to make its final determination in early October 2012. At that point, if Commerce makes an affirmative final determination, and the U.S. International Trade Commission (ITC) makes an affirmative final determination that imports of solar cells from China threaten to injure the domestic solar industry, Commerce will issue an antidumping duty order.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-33 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/testimony-mikkal-herberg-us-china-economic-and-security-review-commission-january-26-2012">Testimony by Mikkal Herberg Before the U.S.-China Economic and Security Review Commission, January 26, 2012</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Herberg_Testimony2.png" alt="" title="" width="142" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/Herberg_USCC&#32;testimony_26&#32;2012.pdf" type="application/pdf; length=75401">Herberg_USCC testimony_26 2012.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>I first would like to thank the members of the Commission for the opportunity to testify to this important group. It is an honor and a privilege.</p>
+
+<p>I have been asked to speak about China’s approach to securing its energy supplies and implications for the United States. I will discuss China’s approach, whether it is impacting global energy markets and the competitive prospects of American energy companies, how Beijing’s energy security drive is influencing maritime territorial and sea lane disputes in the seas around Asia, and some suggestions on U.S. policy towards the developments.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-34 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/testimony-sarah-forbes-us-china-economic-and-security-review-commission-january-26-2012">Testimony by Sarah Forbes Before the U.S.-China Economic and Security Review Commission, January 26, 2012</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Forbes_Testimony.png" alt="" title="" width="134" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/forbes_testimony_china_shale_gas_2012-01-26.pdf" type="application/pdf; length=464567">forbes_testimony_china_shale_gas_2012-01-26.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><b>“China’s Prospects for Shale Gas and Implications for the U.S.”</b></p>
+
+<p>Good morning and thank you for the opportunity to contribute to the deliberations of this Commission. My name is Sarah Forbes, and I am a Senior Associate for the Climate and Energy Program at the World Resources Institute. I am also manager of the World Resources Institute’s Shale Gas Initiative. The World Resources Institute is a non-profit, non-partisan environmental think tank that goes beyond research to provide practical solutions to the world’s most urgent environmental and development challenges. We work in partnership with scientists, businesses, governments, and non-governmental organizations in more than seventy countries to provide information, tools, and analysis to provide for human well-being.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-35 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/chinese-experts-discuss-absolute-emissions-limits-durban">Chinese experts discuss absolute emissions limits in Durban</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Hsu&#32;Durban&#32;3.jpg" alt="" title="" width="80" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>The idea of a total cap on energy consumption in China, first suggested last <a href="../blog-posts/five-year-plan-update-china-announces-total-energy-target">March</a> before the National People’s Congress  has reemerged in Durban, and surprisingly there are now suggestions that China might consider some kind of a cap on carbon emissions.  This has been suggested apparently as part of domestic policy rather than as a negotiating position, but details are very sketchy.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-36 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/new-high-speed-trains-hit-oil-spill-response-miss-latest-news-out-china">New High Speed Trains a Hit; Oil Spill Response a Miss in Latest News Out of China</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/2433464770_7f87e60311_o.jpg" alt="" title="" width="177" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Environmental news in China has seen some real highs and lows of late, ranging from the opening of the Beijing-Shanghai high-speed rail to a severe oil spill.</p>
+
+<p><b>Beijing-Shanghai High-Speed Rail a Sell-Out</b></p>
+
+<p>Trains began running on the new high-speed line between Beijing and Shanghai on June 30. Formerly a trip that could take over 12 hours, <A href="http://www.ens-newswire.com/ens/jul2011/2011-07-04-01.html">the new trains can make the 820 mile journey in less than 5</a>. In contrast, a trip of equivalent distance from Washington, DC to Orlando by train takes over 16 hours.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-37 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/chinas-energy-and-climate-initiatives-successes-challenges-and-implications-us-policies">China’s Energy and Climate Initiatives: Successes, Challenges, and Implications for U.S. Policies</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/testimony_mash_4-11-11_0.jpg" alt="" title="" width="200" height="89" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>On April 5, 2011, the <A href="http://www.eesi.org/">Environmental and Energy Study Institute (EESI)</a> and ChinaFAQs held a briefing on China’s increasing role in advancing renewable energy, energy efficiency, and climate policies. China is a leader in the deployment of clean energy technologies, and the world’s largest manufacturer of wind turbines and solar panels. The United States and China cooperate on a number of clean energy initiatives, producing benefits for both countries.
+</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-38 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/chinas-industrial-energy-audits-new-study-lawrence-berkeley">China&#039;s Industrial Energy Audits: New Study From Lawrence Berkeley</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>A team of researchers at Lawrence Berkeley National Laboratory’s <a href="http://china.lbl.gov/">China Energy Group</a> recently released an in-depth study on China’s industrial energy auditing practices. Because <a href="industry">China’s industrial sector</a> accounts for roughly two thirds of China’s total energy consumption, industrial energy audits play a critical role in assessing the efficacy of China’s policies and progress in improving energy efficiency.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-39 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/chinafaqs-resources-hu-obama-summit">ChinaFAQs: Resources for the Hu-Obama Summit</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><h2>China and the U.S. at the Summit</h2>
+
+<ul>
+<li>Fact Sheet: <a href="../library/chinafaqs-us-and-china-summit-climate-energy-developments-china-and-us-china-collaboration">The U.S. and China at the Summit: Climate &amp; Energy Developments in China and U.S.-China Collaboration</a><br />
+Background on US-China climate relations, what China has accomplished and the prospects ahead for clean energy and climate progress.</li>
+<li>Ask the ChinaFAQs Experts: <a href="../blog-posts/ask-chinafaqs-experts-hu-jintao-obama-summit">“What Outcomes Do You Hope to See From the Hu Jintao-Obama Summit?”</a><br />
+We asked members of our ChinaFAQs Expert Network what they would like to see in terms of outcomes from the summit. Read their responses here.</li>
+</ul></div>
+  </div>
+  </div>
+  <div class="views-row views-row-40 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/tianjin-wri-side-event-2010-wang-guiyang">Tianjin WRI Side Event 2010: Wang - Guiyang</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Wang&#32;-&#32;Guiyang&#32;-&#32;Tianjin&#32;2010-1.jpg" alt="" title="" width="197" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/Wang&#32;-&#32;Guiyang&#32;-&#32;Tianjin&#32;2010.pdf" type="application/pdf; length=300288">Wang - Guiyang - Tianjin 2010.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Download from the link above &#8220;Lessons Learned from Guiyang Case&#8221;, a presentation by Renmin University&#8217;s Wang Ke, Fu Sha and WRI China Country Director <a href="http://www.wri.org/profile/zou-ji">Zou Ji</a> from <a href="../blog-posts/updates-tianjin-wris-side-event-focuses-tools-low-carbon-pathway-china">&#8220;Tools for a Low-Carbon Pathway in China&#8221;</a>, WRI&#8217;s Side Event at the UNFCCC conference in Tianjin, China.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-41 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/tianjin-wri-side-event-2010-song-ghg-capacity">Tianjin WRI Side Event 2010: Song - GHG Capacity</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Song&#32;-&#32;GHG&#32;Capacity&#32;-&#32;Tianjin&#32;2010-1.jpg" alt="" title="" width="176" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/Song&#32;-&#32;GHG&#32;Capacity&#32;-&#32;Tianjin&#32;2010.pdf" type="application/pdf; length=417635">Song - GHG Capacity - Tianjin 2010.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Download from the link above &#8220;Building up Capacity to Support the Control of Sectoral GHG Emissions: a Case Study for the Cement Industry&#8221;, a presentation by WRI’s <a href="http://www.wri.org/profile/ranping-song">Song Ranping</a> from <a href="../blog-posts/updates-tianjin-wris-side-event-focuses-tools-low-carbon-pathway-china">&#8220;Tools for a Low-Carbon Pathway in China&#8221;</a>, WRI&#8217;s Side Event at the UNFCCC conference in Tianjin, China.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-42 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/tianjin-wri-side-event-2010-fong-local-target-planning">Tianjin WRI Side Event 2010: Fong - Local Target Planning</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Fong&#32;-&#32;Local&#32;Target&#32;Planning&#32;-&#32;Tianjin&#32;2010-1.jpg" alt="" title="" width="164" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/Fong&#32;-&#32;Local&#32;Target&#32;Planning&#32;-&#32;Tianjin&#32;2010.pdf" type="application/pdf; length=240020">Fong - Local Target Planning - Tianjin 2010.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Download from the link above &#8220;Building Low Carbon Provinces and Cities: Practical Tools to Support Local Target Planning&#8221;, a presentation by WRI China’s <a href="http://www.wri.org/profile/wee-kean-fong">Fong Wee Kean</a> from <a href="../blog-posts/updates-tianjin-wris-side-event-focuses-tools-low-carbon-pathway-china">&#8220;Tools for a Low-Carbon Pathway in China&#8221;</a>, WRI&#8217;s Side Event at the UNFCCC conference in Tianjin, China.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-43 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/tianjin-wri-side-event-2010-zou-ji-low-carbon-pathways">Tianjin WRI Side Event 2010: Zou Ji - Low Carbon Pathways</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Zou&#32;Ji&#32;-&#32;Low&#32;Carbon&#32;Pathways&#32;-&#32;Tianjin&#32;2010-1.jpg" alt="" title="" width="193" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/Zou&#32;Ji&#32;-&#32;Low&#32;Carbon&#32;Pathways&#32;-&#32;Tianjin&#32;2010.pdf" type="application/pdf; length=741846">Zou Ji - Low Carbon Pathways - Tianjin 2010.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Download from the link above &#8220;Low Carbon Development in China: Vision, Issues, and Latest Progresses&#8221;, a presentation by WRI China Country Director <a href="http://www.wri.org/profile/zou-ji">Zou Ji</a> from <a href="../blog-posts/updates-tianjin-wris-side-event-focuses-tools-low-carbon-pathway-china">&#8220;Tools for a Low-Carbon Pathway in China&#8221;</a>, WRI&#8217;s Side Event at the UNFCCC conference in Tianjin, China.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-44 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/updates-tianjin-wris-side-event-focuses-tools-low-carbon-pathway-china">Updates from Tianjin: WRI’s Side Event Focuses on Tools for a Low-Carbon Pathway in China</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/bikes_10-12-10.jpg" alt="" title="" width="164" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>“The challenge for China is to find a third carbon pathway, one offering a high quality of life for its people, but at much lower emissions per capita than any of the developed country models,” said WRI China Country Director and Renmin University Professor <a href="http://www.wri.org/profile/zou-ji">Zou Ji</a> at WRI’s official side event at the UN Climate Conference in Tianjin last week.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-45 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/updates-tianjin-chinese-businesses-and-ngos-discuss-future-carbon-markets">Updates from Tianjin: Chinese Businesses and NGOs Discuss the Future of Carbon Markets</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/tianjin_sunset_10-8-10.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>China is hosting a UN climate meeting for the first time ever this week in Tianjin.  While the venue has impressed most of the international visitors and the Chinese have gone out of their way to be good hosts, much of the enthusiasm for the meeting is not captured inside the conference center.  Chinese companies and NGOs are energized by the event, but most are not officially registered organizations with the UN Secretariat, and thus need to hold their events outside the official venue.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-46 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/experts-weigh-future-coal-use-china">Experts Weigh In on the Future of Coal Use in China</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/tianjin_10-6-10.jpg" alt="" title="" width="200" height="117" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Coal will remain a critical part of China’s energy mix for decades to come, but growth will slow and then peak at perhaps 3.4 billion tons per year by 2020, Jiang Kejun of China’s Energy Research Institute told a group assembled for the WRI-US CAN-organized briefing on China and coal during the Tianjin climate negotiations on Monday.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-47 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/tianjin-briefing-oct-5-2010-seligsohn-industrial-efficiency">Tianjin Briefing Oct. 5, 2010: Seligsohn - Industrial Efficiency</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Seligsohn&#32;-&#32;Industrial&#32;Efficiency&#32;-&#32;Tianjin&#32;Oct&#32;2010-1.jpg" alt="" title="" width="160" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/Seligsohn&#32;-&#32;Industrial&#32;Efficiency&#32;-&#32;Tianjin&#32;Oct&#32;2010.pdf" type="application/pdf; length=863210">Seligsohn - Industrial Efficiency - Tianjin Oct 2010.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Download from the link above &#8220;From Grey to Green: Making China’s Rapid Urbanization Sustainable&#8221;, a presentation by ChinaFAQs Expert <a href="../expert/deborah-seligsohn">Deborah Seligsohn</a> from <a href="../blog-posts/wri-hosts-coal-use-china-future-use-and-emissions-control-briefing-tianjin-china">&#8220;Coal Use in China: Future Use and Emissions Control&#8221;</a>, A Briefing in Tianjin, China on October 5, 2010.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-48 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/wri-hosts-coal-use-china-future-use-and-emissions-control-briefing-tianjin-china">WRI Hosts &quot;Coal Use in China: Future Use and Emissions Control&quot;, A Briefing in Tianjin, China</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/agenda_tianjin_coal_briefing_10-05-10.jpg" alt="" title="" width="85" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Many ask how China can control its CO<sub>2</sub> emissions given its reliance on coal and its continued need for more energy.  This briefing will look at future use scenarios and at current programs to make coal use more efficient and to develop the technology to capture and store the CO<sub>2</sub>.</p>
+
+<p>Download the agenda and presentations by the panelists below.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-49 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/reducing-greenhouse-gas-emissions-china-closes-highly-polluting-plants">Reducing Greenhouse Gas Emissions: China Closes Highly Polluting Plants</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/4217314587_fe63762b14.jpg" alt="" title="" width="180" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>The big news this week is that <a href="http://www.google.com/hostednews/afp/article/ALeqM5jzjTKTihb71z71qb2u3L9SOk0HXg">China is removing outdated equipment from another 2000 plants</a>, and they are moving quite rapidly – the equipment is to be phased out by the end of September.   These closures are part of the tougher measures Premier Wen Jiabao <A href="../blog-posts/china-major-push-meet-20-energy-intensity-target">announced in April</a>.  While some have expressed <A href="http://blogs.wsj.com/chinarealtime/2010/08/10/factory-closure-order-less-than-it-might-seem/">skepticism about this move</a>, because equipment rather than whole factories are being phased out, in fact, this looks to be a positive move. While China has made significant efficiency advances by closing whole factories, there is a limit to how many such highly inefficient factories actually exist.  As the very oldest, least efficient have been phased out, more sophisticated policies that pinpoint problematic equipment are needed.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-50 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/chinafaqs-industrial-energy-efficiency-cooperation">ChinaFAQs: Industrial Energy Efficiency Cooperation</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/ChinaFAQs_Industrial_Energy_Efficiency_Cooperation_v5.png" alt="" title="" width="93" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/ChinaFAQs_Industrial_Energy_Efficiency_Cooperation.pdf" type="application/pdf; length=787357">ChinaFAQs_Industrial_Energy_Efficiency_Cooperation.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><h2>Why is Industrial Energy So Important in China?</h2>
+
+<p>China’s energy use more than quadrupled from 1980 to 2007 (see Fig. 1), and continues to grow, due in part to the demands of urbanization (i.e. construction of new buildings and infrastructure), and in part to rising production of manufactured goods.<sup>i</sup>  Although China has not yet reached the energy consumption level of the U.S,  China nonetheless – due to a more polluting fuel mix – recently surpassed the U.S. in energy-related CO<sub>2</sub> emissions.<sup>ii</sup></p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-51 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/energy-consumption-major-end-use-sector-china-1980-2007-and-us-2007">Energy Consumption by Major End-Use Sector in China (1980-2007) and the U.S. (2007)</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/energy_consumption_1980-2007.jpg" alt="" title="" width="185" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/lbnl_energy_consumption_1980-2007.pdf" type="application/pdf; length=496851">lbnl_energy_consumption_1980-2007.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>China’s energy use more than quadrupled from 1980 to 2007 (see Fig. 1), and continues to grow, due in part to the demands of urbanization (i.e. construction of new buildings and infrastructure), and in part to rising production of manufactured goods.<sup>i</sup>  Although China has not yet reached the energy consumption level of the U.S,  China nonetheless – due to a more polluting fuel mix – recently surpassed the U.S. in energy-related CO<sub>2</sub> emissions.<sup>ii</sup></p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-52 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/chinas-new-regional-air-quality-regulation-translated">China&#039;s New Regional Air Quality Regulation - translated</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/ChinaFAQs_Joint_Prevention_and_Control_of_Atmospheric_Pollution_by_State_Council_translated.pdf" type="application/pdf; length=144589">ChinaFAQs_Joint_Prevention_and_Control_of_Atmospheric_Pollution_by_State_Council_translated.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>See original Chinese text at: <a href="industry?quicktabs_2=0">http://zfs.mep.gov.cn/fg/gwyw/201005/t20100514_189497.htm</a></p>
+
+<p>(Unofficial, Informal Translation)</p>
+
+<p><b>Notice of the General Office of the State Council about Forwarding Guiding Opinions on Pushing Forward the Joint Prevention and Control of Atmospheric Pollution to Improve the Regional Air Quality Developed by the Ministry of Environment Protection and Relevant Departments</b></p>
+
+<p>No. 33 [2010] of the General Office of the State Council</p>
+
+<p>The people’s governments of all provinces, autonomous regions and municipalities directly under the Central Government, all ministries and commissions of the State Council, and all institutions directly under the State Council:</p>
+
+<p>The Guiding Opinions on Pushing Forward the Joint Prevention and Control of Air Pollution to Improve the Regional Air Quality raised by the Ministry of Environment Protection, the National Development and Reform Commission, the Ministry of Science and Technology, the Ministry of Industry and Information Technology, the Ministry of Finance, the Ministry of Housing and Urban-Rural Construction, the Ministry of Transport, the Ministry of Commerce and the Bureau of Energy has been approved by the State Council and hereby forwarded to you for your earnest compliance and implementation.</p>
+
+<p>General Office of the State Council</p>
+
+<p>May 11, 2010</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-53 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/local-officials-pressured-turn-around-poor-showing-energy-intensity-numbers">Local Officials Pressured to Turn Around Poor Showing in Energy Intensity Numbers</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/port_5-10-10.jpg" alt="" title="" width="170" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>This week China held its second high-level discussion in two weeks on implementing its energy intensity target  at the same time as disappointing first quarter numbers appeared showing that energy intensity has risen by 3.2% in the first quarter of 2010.   Premier Wen Jiabao told provincial officials to use <a href="http://www.upi.com/Science_News/Resource-Wars/2010/05/06/China-iron-hand-to-reach-energy-targets/UPI-22221273162633/">“an iron hand”</a> in implementing energy intensity targets.  This comes in the wake of last weeks’ announcement of <a href="../blog-posts/china-major-push-meet-20-energy-intensity-target">eight new policies</a> to enhance implementation of the 20% energy intensity target.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-54 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/china-major-push-meet-20-energy-intensity-target">China in Major Push to Meet 20% Energy Intensity Target</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/power_lines_5-10-10.jpg" alt="" title="" width="90" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>China’s State Council met Wednesday, April 28, and adopted eight new measures to try to spur the country in a final push to meet its 20% energy intensity reduction target during the 5 years from 2006 to the end of 2010.  While the State Council’s decision has been reported in the international media, we found <a href="http://money.hexun.com/2010-04-29/123571006.html">the specific measures</a> only in the Chinese press, which we summarize:</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-55 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/china-records-its-climate-actions-copenhagen-accord-deadline">China Records Its Climate Actions By Copenhagen Accord Deadline</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Barbara&#32;Finamore&#32;Alt.jpg" alt="" title="" width="200" height="106" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><b>China&#8217;s Commitment</b></p>
+
+<p>China has <a href="http://www.reuters.com/article/idUSLDE60S21N">submitted its proposed climate mitigation actions</a> to the UNFCCC in a letter dated January 28, ahead of the January 31, 2010 deadline in the Copenhagen Accord.  Given Premier Wen Jiabao’s hands-on role, along with President Obama and the leaders of India, Brazil and South Africa, in creating the Accord last month, it is encouraging to see China demonstrate its commitment to moving global climate negotiations forward.</p>
+
+<p>In its letter, China reaffirmed its earlier announcement of policies to: (1) reduce its carbon intensity by 40-45% by 2020 from 2005 levels, (2) increase the share of non-fossil energy in its primary energy consumption to around 15% by 2020, and (3) increase forest coverage by 40 million hectares and forest stock volume by 1.3 billion cubic meters by 2020 from 2005 levels.  China noted that these actions will be implemented in accordance with the principles and provisions of the UNFCCC.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-56 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/wri-closure-programs-key-sectors-2004">WRI: Closure Programs in Key Sectors, 2004</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/wri_key_sector_closures.png" alt="" title="" width="200" height="50" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/wri_key_sector_closures.pdf" type="application/pdf; length=291734">wri_key_sector_closures.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Closing small thermal power plants is part of the national energy saving and pollution reduction eff ort to meet the national target of 20 percent reduction in energy intensity by 2010. Th is program, which operates in parallel with plans to build larger, more efficient plants, is offi cially called “The Program of Large Substituting for Small.” In order to promote the robust development of China’s power industry, NDRC has required the closure of small-scale thermal power units with high energy consumption and poor pollution control, and delegated this task to provincial governments and the power and grid companies.</p>
+
+<p>There are similar programs in other industrial sectors. Some major substitution and closure programs to phase out inefficient equipment in key sectors are listed in the table.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-57 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/wri-energy-intensities-and-targets-major-industrial-products-2006">WRI: Energy Intensities and Targets for Major Industrial Products, 2006</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/wri_energy_intensities_and_targets_for_industrial_products.png" alt="" title="" width="200" height="51" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/wri_energy_intensities_and_targets_for_industrial_products.pdf" type="application/pdf; length=297337">wri_energy_intensities_and_targets_for_industrial_products.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Several specific sectoral plans have been developed under the Five-Year Plan including the forestry sector. Quantitative targets are also identified in these sectoral plans.  This table shows the energy intensities and targets for major industry sectors as specified in the energy development plan.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-58 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/wri-energy-consumption-sector">WRI: Energy Consumption by Sector</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Energy-Consumption-by-Secto.jpg" alt="" title="" width="85" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/wri_Energy-Consumption-by-Sector.pdf" type="application/pdf; length=353590">wri_Energy-Consumption-by-Sector.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>China’s energy mix is unusually tilted toward industrial uses, and thus improvements in the industrial sector have large overall impacts.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-59 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/wri-us-energy-intensity-industry">WRI: U.S. Energy Intensity by Industry</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/U.S.-Energy-Intensity-by-In.jpg" alt="" title="" width="200" height="119" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/wri_U.S.-Energy-Intensity-by-Industry.pdf" type="application/pdf; length=737853">wri_U.S.-Energy-Intensity-by-Industry.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>American manufacturers fear that the imbalances created by aggressive climate policy in the United States could contribute significantly to the “offshore-ing” of jobs and relocation of industry to countries with lower standards and production costs.</p>
+
+<p>For most U.S. industries, these fears are overstated and limited to industries where energy and fossil fuels are a large portion of their cost structures and where those industries participate in global markets. In industries such as transportation equipment and electronics manufacturing, energy accounts for less than one percent of total production costs. In fact, industries are more likely to be impacted by fluctuations in currency exchange rates or national differences in tax and transportation costs. Carbon regulation compliance costs are likely to be insignificant to global competitiveness of these industries.</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-60 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/chinafaqs-chinas-ten-key-energy-efficiency-projects">ChinaFAQs: China’s Ten Key Energy Efficiency Projects</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/ChinaFAQs&#32;China's&#32;Ten&#32;Key&#32;Energy&#32;Efficiency&#32;Projects-1.png" alt="" title="" width="93" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/ChinaFAQs_China's_Ten_Key_Energy_Efficiency_Projects.pdf" type="application/pdf; length=397066">ChinaFAQs_China&#039;s_Ten_Key_Energy_Efficiency_Projects.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><b>Key Points</b></p>
+
+<ul><li>In 2004, China launched its “Ten Key Projects” initiative, a billion dollar program that provides financial support for energy-saving projects ranging from the power sector to construction across the nation.</li>  
+
+<li>The Chinese government approved nearly 550 applications in 2007 and more than 1,200 applications in 2008.</li></ul></div>
+  </div>
+  </div>
+  <div class="views-row views-row-61 views-row-odd views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../library/chinafaqs-efficiency-thousand-companies-time">ChinaFAQs: Efficiency, a Thousand Companies at a Time</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Efficiency.jpg" alt="" title="" width="93" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"><div class="filefield-file"><img class="filefield-icon field-icon-application-pdf"  alt="application/pdf icon" src="../sites/all/modules/filefield/icons/application-pdf.png" /><a href="../files/chinainfo/ChinaFAQs_Efficiency_A_Thousand_Companies_at_a_Time_0.pdf" type="application/pdf; length=628971">ChinaFAQs_Efficiency_A_Thousand_Companies_at_a_Time.pdf</a></div></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><b>Key Points</b></p>
+
+<ul> <li>China&#8217;s “Top-1000 Energy-Consuming Enterprises Program” focuses on energy efficiency improvements in large enterprises that make up 33% of China&#8217;s energy use and a similar share of energy-related CO<sub>2</sub> emissions.</li>
+
+<li>Almost all of the 1,000 large enterprises have developed energy efficiency plans, which so far have produced more than 10,000 energy saving projects.</li>
+
+<li>At the program’s current rate, benefits will exceed the initial goal of saving 100 million tons of coal-equivalent by 2010, an emissions reduction of about 250 million tons of CO<sub>2</sub>. </li> </ul></div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+</div>
+</div><div id="quicktabs_tabpage_1_1" class="quicktabs_tabpage quicktabs-hide"><div class="related-posts">
+<div class="gray-bar" style="border: solid 2px #d4d4d4;"></div>
+  
+  <div class="content-related-posts">
+    <div class="view view-issue-detail-grouping-list view-id-issue_detail_grouping_list view-display-id-block_3 view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../expert/david-fridley">David Fridley</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/David_Fridley.jpg" alt="" title="" width="100" height="100" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Mr. Fridley has 25 years of experience working and living in China. Prior to 1993, Mr. Fridley led the China Energy Project at the East-West Center in Hawaii primarily in the area of petroleum supply and demand, refinery analysis and modeling, international oil trade and energy policy, and concurrently was a consultant with Fesharaki Associates. From 1993 to 1995, he worked as Business Development Manager in refining and marketing for Caltex China. Currently, Mr. Fridley is a staff scientist and deputy leader of the China Energy Group at Lawrence Berkeley National Laboratory where his research involves extensive collaboration with the Chinese on end-use energy efficiency, industrial energy use, government energy management programs, data compilation and analysis, medium and long term energy policy research. He is a Mandarin speaker.</p></div>
+  </div>
+  
+  <div class="views-field-field-contact-info-value">
+                <div class="field-content"><p>Lawrence Berkeley National Laboratory<br />
+<a href="mailto:&#68;&#71;&#70;&#114;&#105;&#100;&#108;&#101;&#121;&#64;&#108;&#98;&#108;&#46;&#103;&#111;&#118;">&#68;&#71;&#70;&#114;&#105;&#100;&#108;&#101;&#121;&#64;&#108;&#98;&#108;&#46;&#103;&#111;&#118;</a><br />
+(510) 486-7318</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../expert/trevor-houser">Trevor Houser</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Trevor_Houser.jpg" alt="" title="" width="100" height="100" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Trevor Houser, visiting fellow at the Peterson Institute for International Economics, is partner at the Rhodium Group (RHG) and director of its Energy and Climate Practice. He is also an adjunct lecturer at the City College of New York and a visiting fellow at the school&#8217;s Colin Powell Center for Policy Studies. During 2009 he served as senior advisor to the US Special Envoy on Climate Change. His areas of research include energy markets, climate change, and the role emerging Asian countries play in both. He is author most recently of <em>The Economics of Energy Efficiency in Buildings</em> (2009), <em>Structuring a Green Recovery: Evaluating Policy Options for an Economic Stimulus Package</em> (2009), <em>Leveling the Carbon Playing Field: International Competition and US Climate Policy Design</em> (2008), and <em>China Energy: A Guide for the Perplexed</em> (2007).</p></div>
+  </div>
+  
+  <div class="views-field-field-contact-info-value">
+                <div class="field-content"><p>Peterson Institute for International Economics<br />
+<a href="mailto:&#116;&#104;&#111;&#117;&#115;&#101;&#114;&#64;&#112;&#105;&#105;&#101;&#46;&#99;&#111;&#109;">&#116;&#104;&#111;&#117;&#115;&#101;&#114;&#64;&#112;&#105;&#105;&#101;&#46;&#99;&#111;&#109;</a></p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../expert/huei-peng">Huei Peng</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Huei_Peng.jpg" alt="" title="" width="100" height="100" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Dr. Huei Peng is a Professor at the Department of Mechanical Engineering at the University of Michigan and Director of the <A href="http://www.us-china-cerc.org/Clean_Vehicles.html">US Clean Vehicle Consortium of the US-China Clean Energy Research Center</a>. His research interests include adaptive control and optimal control, with emphasis on their applications to vehicular and transportation systems. His current research focuses include design and control of hybrid electric vehicles and vehicle active safety systems.</p></div>
+  </div>
+  
+  <div class="views-field-field-contact-info-value">
+                <div class="field-content"><p>Department of Mechanical Engineering
+<br />University of Michigan
+<br />G036 Lay Automotive Laboratory
+<br />Ann Arbor, MI 48109-2133 USA
+<br />(734) 936-0352
+<br />E-mail: <a href="mailto:&#104;&#112;&#101;&#110;&#103;&#64;&#117;&#109;&#105;&#99;&#104;&#46;&#101;&#100;&#117;">&#104;&#112;&#101;&#110;&#103;&#64;&#117;&#109;&#105;&#99;&#104;&#46;&#101;&#100;&#117;</a></p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../expert/lynn-price">Lynn Price</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Lynn_Price.jpg" alt="" title="" width="100" height="100" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Lynn Price is a Staff Scientist and the Group Leader of the China Energy Group of the Energy Analysis Department, Environmental Energy Technologies Division, of Lawrence Berkeley National Laboratory. Ms. Price has a MS in Environmental Science from the University of Wisconsin-Madison and has worked at LBNL since 1990. Ms. Price has been a member of the Intergovernmental Panel on Climate Change, which won the Nobel Peace Prize in 2007, since 1994 and was an author on the industrial sector chapter of IPCC’s Fourth Assessment Report on Mitigation of Climate Change.</p></div>
+  </div>
+  
+  <div class="views-field-field-contact-info-value">
+                <div class="field-content"><p>Lawrence Berkeley National Laboratory<br />
+<a href="mailto:&#76;&#75;&#80;&#114;&#105;&#99;&#101;&#64;&#108;&#98;&#108;&#46;&#103;&#111;&#118;">&#76;&#75;&#80;&#114;&#105;&#99;&#101;&#64;&#108;&#98;&#108;&#46;&#103;&#111;&#118;</a><br />
+(510) 486-6519</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../expert/ranping-song-0">Ranping Song</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/song-ranping-wri.jpg" alt="" title="" width="120" height="120" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Ranping Song is the Developing Country Climate Action Manager at the World Resources Institute. Working with the International Climate Action Initiative of WRI’s Global Climate Program, Ranping serves as the global focal point across WRI for work on Intended Nationally Determined Contributions (INDCs) and developing country actions. He engages with and coordinates teams across WRI on the full range of issues addressed in INDCs, including mitigation, adaptation and finance. He also coordinates with in-country climate team leads in WRI’s country offices and supports them on the development and implementation of climate strategies in developing countries. From 2012 to 2015, Ranping served as the Team Lead for China Climate Program, where he led the development and implementation of climate strategy in China. Before then, he served as an Associate and Program Manager for the GHG Protocol in China.</p>
+
+<p>Prior to joining WRI, Ranping was the China Campaign Manager for The Climate Group in Beijing. There he worked to engage companies and government agencies to promote climate friendly products in order to reduce carbon footprints. Before then, he worked for the United Nations Development Group in New York.</p>
+
+<p>Ranping has a Master’s degree in Public Administration from New York University Wagner School of Public Service and a Bachelor’s degree in Law from Lanzhou University.</p></div>
+  </div>
+  
+  <div class="views-field-field-contact-info-value">
+                <div class="field-content"><p>World Resources Institute<br />
+<a href="mailto:&#114;&#115;&#111;&#110;&#103;&#64;&#119;&#114;&#105;&#46;&#111;&#114;&#103;">&#114;&#115;&#111;&#110;&#103;&#64;&#119;&#114;&#105;&#46;&#111;&#114;&#103;</a><br />
++1 (202) 729-7896</p></div>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../expert/julian-wong">Julian Wong</a></span>
+  </div>
+  
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/news-image/Julian&#32;Wong&#32;Alt_sm.jpg" alt="" title="" width="100" height="100" class="imagecache imagecache-news-image imagecache-default imagecache-news-image_default"/></span>
+  </div>
+  
+  <div class="views-field-field-library-file-fid">
+                <div class="field-content"></div>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p><b>In the News:</p>
+
+<ul>
+<li><a href="http://blogs.nationalgeographic.com/blogs/news/chiefeditor/2010/08/water-conservation-vs-dams-and.html">Julian Wong on water security in China in &#8220;Water Conservation vs.</a></li></ul>
+
+<p></b></p></div>
+  </div>
+  
+  <div class="views-field-field-contact-info-value">
+                <div class="field-content"><p><a href="mailto:&#101;&#99;&#111;&#112;&#114;&#101;&#110;&#101;&#117;&#114;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#101;&#99;&#111;&#112;&#114;&#101;&#110;&#101;&#117;&#114;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></p></div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+</div>
+</div></div></div>  </div>
+
+</div>
+				</div>
+<script type="text/javascript"> 
+$('#edit-search-block-form-1').val('Search...');
+$('#edit-search-block-form-1').focus(function() {
+ if ('Search...' == $('#edit-search-block-form-1').val()) {
+  $('#edit-search-block-form-1').val('');
+ }
+});
+$('#edit-search-block-form-1').blur(function() {
+ if ('' == $('#edit-search-block-form-1').val()) {
+  $('#edit-search-block-form-1').val('Search...');
+ }
+});
+</script>
+
+				                             
+                                
+                </div>
+                    
+
+                    
+                    <div id="right">
+            			        
+			<div id="tabs"><div id="mytab"><div class="tabber"><div class="tabbertab">
+<h4>Issue Areas</h4>
+<div class="view view-issues-area-list view-id-issues_area_list view-display-id-block_1 view-dom-id-7">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="chinafaqs-theme-why-china-acting-clean-energy">ChinaFAQs Theme: Why China is Acting on Clean Energy</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="carbon-capture-and-storage">Carbon Capture and Storage</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="coal-electricity">Coal for Electricity</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="development-economics-and-energy">Development, Economics, and Energy</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="energy-and-emissions-data">Energy and Emissions Data</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="energy-efficiency">Energy Efficiency</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="forestry">Forestry</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="industry" class="active">Industry</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="measurement-and-compliance">Measurement and Compliance</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="policy-and-governance">Policy and Governance</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="renewables-and-alternative-energy">Renewables and Alternative Energy</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="prospects-for-businesses-in-china">The US and China- Clean Tech Business Opportunities</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="trade-and-competitiveness">Trade and Competitiveness</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="transportation">Transportation</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="united-states-china-cooperation">United States-China Cooperation</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-16 views-row-even views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="us-china-public-private-partnerships">US-China Public-Private Partnerships</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div><div class="clear"></div></div></div>
+						  
+
+          		  <div id="right_bl">
+<h6>Expert Blog Posts</h6>
+<div class="right_bl_co"><div class="d"><div class="view view-blog-post view-id-blog_post view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/china�%2580%2599s-decline-coal-consumption-drives-global-slowdown-emissions">China’s Decline in Coal Consumption Drives Global Slowdown in Emissions</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/china-leaving-us-behind-clean-energy-investment">China is Leaving the U.S. Behind on Clean Energy Investment</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/continuing-cooperation-china-clean-energy-and-climate-change-us-interest">Continuing cooperation with China on clean energy and climate change in US interest</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/clean-air-cool-climate-solving-these-problems-together">Clean Air, Cool Climate: Solving these problems together</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="../blog-posts/china�%2580%2599s-air-pollution-standards-will-drive-technology-innovation">China’s Air Pollution Standards Will Drive Technology Innovation</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div></div>
+</div><div id="right_bl">
+<h6>Experts In the News</h6>
+<div class="right_bl_co"><div class="d"><div class="view view-experts-in-the-news view-id-experts_in_the_news view-display-id-block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/thumbnail-small/Kate&#32;Gordon&#32;website&#32;version.jpg" alt="" title="" width="50" height="50" class="imagecache imagecache-thumbnail-small imagecache-default imagecache-thumbnail-small_default"/></span>
+  </div>
+  
+  <span class="views-field-field-news-date-value">
+                <span class="field-content"><span class="date-display-single">September 20, 2016</span></span>
+  </span>
+  
+  <div class="views-field-body">
+                <div class="field-content"><a href="http://blogs.wsj.com/experts/2016/09/13/how-china-wastes-its-renewable-energy/"><p><a href="http://blogs.wsj.com/experts/2016/09/13/how-china-wastes-its-renewable-energy/">Kate Gordon discusses action China has taken towards needed power sector reforms in &#8220;How China Wastes its Renewable Energy&#8221; The Wall Street Journal</a></p></a></div>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/thumbnail-small/Joanna_Lewis.jpg" alt="" title="" width="50" height="50" class="imagecache imagecache-thumbnail-small imagecache-default imagecache-thumbnail-small_default"/></span>
+  </div>
+  
+  <span class="views-field-field-news-date-value">
+                <span class="field-content"><span class="date-display-single">September 02, 2016</span></span>
+  </span>
+  
+  <div class="views-field-body">
+                <div class="field-content"><a href="http://www.reuters.com/article/us-g20-climatechange-china-usa-idUSKCN1175FJ"><p><a href="http://www.reuters.com/article/us-g20-climatechange-china-usa-idUSKCN1175FJ">Joanna Lewis says we can <a href="http://www.achaten-suisse.com/">achaten-suisse.com</a> expect climate change and clean energy to take center stage in upcoming G20 meeting in &#8220;U.S. and China to Lead Push on Climate Change at G20 Summit&#8221; Reuters</a></p></a></div>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/thumbnail-small/Barbara_Finamore.jpg" alt="" title="" width="50" height="50" class="imagecache imagecache-thumbnail-small imagecache-default imagecache-thumbnail-small_default"/></span>
+  </div>
+  
+  <span class="views-field-field-news-date-value">
+                <span class="field-content"><span class="date-display-single">June 23, 2016</span></span>
+  </span>
+  
+  <div class="views-field-body">
+                <div class="field-content"><a href="http://www.huffingtonpost.com/barbara-a-finamore/how-china-can-peak-emissi_b_10578190.html"><p><a href="http://www.huffingtonpost.com/barbara-a-finamore/how-china-can-peak-emissi_b_10578190.html">Barbara Finamore explains how low-carbon buildings could help China peak its greenhouse gas emissions early in “How China Can Peak Emissions Through Low-Carbon Buildings” The Huffington Post </a></p></a></div>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/thumbnail-small/Valerie&#32;Karplus_0.jpg" alt="" title="" width="50" height="50" class="imagecache imagecache-thumbnail-small imagecache-default imagecache-thumbnail-small_default"/></span>
+  </div>
+  
+  <span class="views-field-field-news-date-value">
+                <span class="field-content"><span class="date-display-single">June 23, 2016</span></span>
+  </span>
+  
+  <div class="views-field-body">
+                <div class="field-content"><a href="https://www.washingtonpost.com/news/energy-environment/wp/2016/06/20/this-is-how-china-can-live-up-to-its-huge-wind-energy-potential/"><p><a href="https://www.washingtonpost.com/news/energy-environment/wp/2016/06/20/this-is-how-china-can-live-up-to-its-huge-wind-energy-potential/">A study co-authored by Valerie Karplus says that with reforms, wind-generated electricity could account for up to three quarters of China’s target of supplying 20 percent of primary energy demand with non-fossil fuel sources by 2030 in “This is how <a href="http://www.comprarviagraes24.com/composicion-de-la-viagra">composicion de la viagra</a> China can live up to its huge wind energy potential” The Washington Post </a></p></a></div>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><img src="../files/chinainfo/imagecache/thumbnail-small/picture-436.jpg" alt="" title="" width="50" height="50" class="imagecache imagecache-thumbnail-small imagecache-default imagecache-thumbnail-small_default"/></span>
+  </div>
+  
+  <span class="views-field-field-news-date-value">
+                <span class="field-content"><span class="date-display-single">March 21, 2016</span></span>
+  </span>
+  
+  <div class="views-field-body">
+                <div class="field-content"><a href="http://www.bna.com/chinas-fiveyear-plan-n57982068753/"><p><a href="http://www.bna.com/chinas-fiveyear-plan-n57982068753/">Ranping <a href="https://www.acheterviagrafr24.com/achat-viagra-cialis-en-ligne/">https://www.acheterviagrafr24.com/achat-viagra-cialis-en-ligne/</a> Song says China is on track to meet its international climate commitments in &#8220;China&#8217;s Five-Year Plan Seen as Boosting Climate Action&#8221; Bloomberg BNA</a></p></a></div>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a right href="../experts-in-the-news">See the Full List in the Archives</a>    </div>
+  
+  
+</div> </div></div>
+</div><div id="right_bl">
+<h6>Experts</h6>
+<div class="right_bl_co"><div class="d"><div id="quicktabs-2" class="quicktabs_wrapper quicktabs-style-zen"><ul class="quicktabs_tabs quicktabs-style-zen"><li class="qtab-0 active first last"><a href="industry?quicktabs_2=0#quicktabs-2" id="quicktabs-tab-2-0" class="qt_tab active">Experts</a></li></ul><div id="quicktabs_container_2" class="quicktabs_main quicktabs-style-zen"><div id="quicktabs_tabpage_2_0" class="quicktabs_tabpage"><div class="view view-experts view-id-experts view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/nathaniel-aden">Nathaniel Aden</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">World Resources Institute</span>
+  </span>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/joshua-busby">Joshua Busby</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Lyndon B. Johnson School of Public Affairs</span>
+  </span>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/edward-cunningham">Edward Cunningham</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Boston University</span>
+  </span>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/erica-downs">Erica Downs</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Eurasia Group</span>
+  </span>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/meredydd-evans">Meredydd Evans</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Pacific Northwest National Laboratory</span>
+  </span>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/barbara-finamore">Barbara Finamore</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Natural Resources Defense Council</span>
+  </span>
+</li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/jerry-fletcher">Jerry Fletcher</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">West Virginia University</span>
+  </span>
+</li>
+          <li class="views-row views-row-8 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/carla-freeman">Carla Freeman</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Johns Hopkins SAIS</span>
+  </span>
+</li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/david-fridley">David Fridley</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Lawrence Berkeley National Laboratory</span>
+  </span>
+</li>
+          <li class="views-row views-row-10 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/kelly-sims-gallagher">Kelly Sims Gallagher</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Tufts University</span>
+  </span>
+</li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/banning-garrett">Banning Garrett</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Singularity University</span>
+  </span>
+</li>
+          <li class="views-row views-row-12 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/kate-gordon">Kate Gordon</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">The Paulson Institute</span>
+  </span>
+</li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/melanie-hart">Melanie Hart</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Center for American Progress</span>
+  </span>
+</li>
+          <li class="views-row views-row-14 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/mikkal-herberg">Mikkal Herberg</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">The National Bureau of Asian Research</span>
+  </span>
+</li>
+          <li class="views-row views-row-15 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/isabel-hilton">Isabel Hilton</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Chinadialogue</span>
+  </span>
+</li>
+          <li class="views-row views-row-16 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/trevor-houser">Trevor Houser</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Peterson Institute for International Economics</span>
+  </span>
+</li>
+          <li class="views-row views-row-17 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/st-hsieh">S.T. Hsieh</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Tulane University</span>
+  </span>
+</li>
+          <li class="views-row views-row-18 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/angel-hsu">Angel Hsu</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Yale Center for Environment and Policy</span>
+  </span>
+</li>
+          <li class="views-row views-row-19 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/daniel-kammen">Daniel Kammen</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">University of California, Berkeley</span>
+  </span>
+</li>
+          <li class="views-row views-row-20 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/robert-kapp">Robert Kapp</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Robert A. Kapp and Associates</span>
+  </span>
+</li>
+          <li class="views-row views-row-21 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/valerie-karplus">Valerie Karplus</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Massachusetts Institute of Technology</span>
+  </span>
+</li>
+          <li class="views-row views-row-22 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/albert-keidel">Albert Keidel</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Atlantic Council</span>
+  </span>
+</li>
+          <li class="views-row views-row-23 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/david-kline">David Kline</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Citizens&#039; Climate Lobby</span>
+  </span>
+</li>
+          <li class="views-row views-row-24 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/bo-kong">Bo Kong</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">University of Oklahoma College of International Studies</span>
+  </span>
+</li>
+          <li class="views-row views-row-25 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/michael-levi">Michael Levi</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Council on Foreign Relations</span>
+  </span>
+</li>
+          <li class="views-row views-row-26 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/mark-levine">Mark Levine</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Lawrence Berkeley National Lab</span>
+  </span>
+</li>
+          <li class="views-row views-row-27 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/joanna-lewis">Joanna Lewis</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Georgetown University</span>
+  </span>
+</li>
+          <li class="views-row views-row-28 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/kenneth-lieberthal">Kenneth Lieberthal</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">The Brookings Institution</span>
+  </span>
+</li>
+          <li class="views-row views-row-29 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/haibing-ma">Haibing Ma</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Worldwatch Institute</span>
+  </span>
+</li>
+          <li class="views-row views-row-30 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/denise-mauzerall">Denise Mauzerall</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Princeton University</span>
+  </span>
+</li>
+          <li class="views-row views-row-31 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/mackay-miller">Mackay Miller</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">National Renewable Energy Laboratory</span>
+  </span>
+</li>
+          <li class="views-row views-row-32 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/irving-mintzer">Irving Mintzer</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Potomac Energy Fund</span>
+  </span>
+</li>
+          <li class="views-row views-row-33 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/jonathan-moch">Jonathan Moch</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Harvard University</span>
+  </span>
+</li>
+          <li class="views-row views-row-34 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/clayton-munnings">Clayton Munnings</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Resources for the Future</span>
+  </span>
+</li>
+          <li class="views-row views-row-35 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/jane-nakano">Jane Nakano</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Center for Strategic and International Studies</span>
+  </span>
+</li>
+          <li class="views-row views-row-36 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/chris-nielsen">Chris Nielsen</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Harvard University</span>
+  </span>
+</li>
+          <li class="views-row views-row-37 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/rose-niu">Rose Niu</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">The Paulson Institute</span>
+  </span>
+</li>
+          <li class="views-row views-row-38 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/stephanie-ohshita">Stephanie Ohshita</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Lawrence Berkeley National Laboratory</span>
+  </span>
+</li>
+          <li class="views-row views-row-39 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/huei-peng">Huei Peng</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">University of Michigan</span>
+  </span>
+</li>
+          <li class="views-row views-row-40 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/lynn-price">Lynn Price</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Lawrence Berkeley National Laboratory</span>
+  </span>
+</li>
+          <li class="views-row views-row-41 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/david-pumphrey">David Pumphrey</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Center for Strategic and International Studies</span>
+  </span>
+</li>
+          <li class="views-row views-row-42 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/jingjing-qian">JingJing Qian</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Natural Resources Defense Council</span>
+  </span>
+</li>
+          <li class="views-row views-row-43 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/rod-quinn">Rod Quinn</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Pacific Northwest National Laboratory</span>
+  </span>
+</li>
+          <li class="views-row views-row-44 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/luke-schoen">Luke Schoen</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Tsinghua-Berkeley Inter-University Program</span>
+  </span>
+</li>
+          <li class="views-row views-row-45 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/deborah-seligsohn">Deborah Seligsohn</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">UCSD</span>
+  </span>
+</li>
+          <li class="views-row views-row-46 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/monisha-shah">Monisha Shah</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">National Renewable Energy Laboratory</span>
+  </span>
+</li>
+          <li class="views-row views-row-47 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/bo-shen">Bo Shen</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Lawrence Berkeley National Laboratory</span>
+  </span>
+</li>
+          <li class="views-row views-row-48 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/ranping-song-0">Ranping Song</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">World Resources Institute</span>
+  </span>
+</li>
+          <li class="views-row views-row-49 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/edward-steinfeld">Edward Steinfeld</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Brown University</span>
+  </span>
+</li>
+          <li class="views-row views-row-50 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/jennifer-turner">Jennifer Turner</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Woodrow Wilson Center</span>
+  </span>
+</li>
+          <li class="views-row views-row-51 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/alex-wang">Alex Wang</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">UCLA School of Law</span>
+  </span>
+</li>
+          <li class="views-row views-row-52 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/elizabeth-wilson">Elizabeth Wilson</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">University of Minnesota</span>
+  </span>
+</li>
+          <li class="views-row views-row-53 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/julian-wong">Julian Wong</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Green Leap Forward</span>
+  </span>
+</li>
+          <li class="views-row views-row-54 views-row-even">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/ailun-yang">Ailun Yang</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">World Resources Institute</span>
+  </span>
+</li>
+          <li class="views-row views-row-55 views-row-odd">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/zhang-xiaoquan">Zhang Xiaoquan</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">The Nature Conservancy</span>
+  </span>
+</li>
+          <li class="views-row views-row-56 views-row-even views-row-last">  
+  <span class="views-field-title">
+          <label class="views-label-title">
+        Name:
+      </label>
+                <span class="field-content"><a href="../expert/nan-zhou">Nan Zhou</a></span>
+  </span>
+      ,   
+  <span class="views-field-field-organization-value">
+                <span class="field-content">Lawrence Berkeley National Lab</span>
+  </span>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div></div></div></div></div>
+</div><div id="right_bl">
+<h6>Data Sources</h6>
+<div class="right_bl_co"><div class="d"><p><a href="../library/bp-statistical-review-world-energy">BP Statistical Review of World Energy</a><br />
+<a href="../library/carbon-dioxide-information-analysis-center-ornl">Carbon Dioxide Information Analysis Center (ORNL)</a><br />
+<a href="../library/china-energy-databook-lbnl">China Energy Databook (LBNL)</a><br />
+<A href="http://china.lbl.gov/sites/china.lbl.gov/files/2011_Databook.pdf">Key China Energy Statistics 2011 (LBNL)</a><br />
+<a href="../library/climate-analysis-indicator-tool-cait">Climate Analysis Indicator Tool (CAIT)</a><br />
+<a href="../library/emissions-database-global-atmospheric-research-edgar">Emissions Database for Global Atmospheric Research (EDGAR)</a><br />
+<a href="../library/energy-information-administration-eia">Energy Information Administration (EIA)</a><br />
+<a href="../library/international-energy-agency-iea">International Energy Agency (IEA)</a><br />
+<a href="../library/world-bank">The World Bank</a><br />
+<a href="../library/unfccc">UN Framework Convention on Climate Change (UNFCCC)</a><br />
+<a href="../library/us-environmental-protection-agency-epa">U.S. Environmental Protection Agency (EPA)</a><br /></p>
+</div></div>
+</div>		                                            
+                    </div>
+                    
+
+                    
+                    <div id="footer">
+			 
+                        
+
+<!-- Footer Links -->	
+	  <div id="footer-links">
+        <table>   <tr><th>Convened by the World Resources Institute</th><th></th></tr>
+<tr>
+<td>tel: +1 202-729-7657</td><td>10 G Street NE Suite 800</td></tr>
+<tr><td>fax: +1 202-729-7610</td><td>Washington, DC 20002, USA</td></tr></table>
+<br />
+<b><a href="../about">About</a> <a href="../contact">Contact Us</a> <a href="../register">Newsletter</a></b>	  </div>           
+                  
+	        						
+                        
+                    </div>
+			</div>
+            
+         <img src="../sites/default/themes/drupalmagazine/images/footer.gif">
+</div>  
+</div>
+
+<!-- Script Closure -->
+    <!-- WRI system-wide navigation menu. This section should go at the bottom of every WRI site, just before the closing [/body] tag -->
+<div id="wrinav">
+<div class="wrapper clear-block">
+<div class="wrilink">A <a href="http://www.wri.org/about?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">World Resources Institute</a> website</div>
+<div class="nav">
+<ul class="topnav">
+<li class="top-item first"><a href="http://www.wri.org/publications?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">publications</a></li>
+<li class="top-item"><a href="http://www.wri.org/projects?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">programs</a></li>
+<li class="top-item"><a href="http://community.wri.org/NetCommunity/donate?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">donate</a></li>
+<li id="wrinav-sites" class="top-item dropdown last">WRI sites <div class="dropdown-item"><ul><li><a href="http://www.wri.org?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">Main WRI Site</a></li><li><a href="http://insights.wri.org?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">WRI Insights</a></li><li class="china"><a href="http://www.wri.org.cn?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">WRI in China</a></li></ul>
+<ul><li><a href="http://thecityfix.com?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">TheCityFix</a></li><li><a href="http://cait.wri.org?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">Climate Analysis Indicators</a></li><li><a href="http://earthtrends.wri.org?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">Earthtrends</a></li><li><a href="http://electricitygovernance.wri.org?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">Electricity Governance</a></li><li><a href="http://www.embarq.org?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">EMBARQ</a></li><li><a href="http://www.forestlegality.org?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">Forest Legality Alliance</a></li><li><a href="http://www.new-ventures.org?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">New Ventures</a></li><li><a href="http://www.seesouthernforests.org?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">Southern Forests for the Future</a></li><li><a href="http://www.worldresourcesreport.org?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org">World Resources Report</a></li></ul>
+<ul class="last"><li><a href="http://www.wri.org/get-involved?utm_source=wrinav&utm_medium=nav&utm_campaign=chinafaqs.org#othersites">More sites</a></li></ul>
+</div> </li>
+</ul>
+<form method="get" action="http://www.wri.org/search">
+<input type="hidden" name="from" value="navbar">
+<input type="hidden" name="utm_source" value="wrinav">
+<input type="hidden" name="utm_medium" value="search">
+<input type="hidden" name="utm_campaign" value="chinafaqs.org">
+<input name="s" class="form-text" onclick="this.value=''" value="Search WRI" type="text">
+<input name="op" class="form-btn" value="Go" type="submit">
+</form>
+</div></div></div>
+<!-- end WRI system-wide navigation menu -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1981881-5"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+
+</body>
+</html>
